@@ -1,3 +1,3 @@
 # hello-world
-First trial repository
+First trial
 // First comment
